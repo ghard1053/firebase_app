@@ -8,5 +8,6 @@ target 'firebase_app' do
   # Pods for firebase_app
 
   pod 'Firebase/Core'
+  pod 'Firebase/Database'
 
 end
